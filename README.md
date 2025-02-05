@@ -15,11 +15,11 @@ Metode clustering yang digunakan dalam analisis ini antara lain:
 
 ## Variabel Penelitian
 Data yang digunakan terdiri dari komoditas-komoditas berikut:  
-1. **Komoditas Migas**: Minyak dan gas, mencakup ekstraksi minyak mentah dan gas alam serta pengolahan hasil minyak.  
-2. **Komoditas Industri Pengolahan**: Termasuk barang-barang elektronik, mesin listrik, dan bahan kimia.  
-3. **Komoditas Pertanian**: Sektor peternakan, perikanan, dan pertanian tanaman tahunan seperti padi dan jagung.  
-4. **Komoditas Pertambangan**: Penambangan bahan tambang seperti emas, tembaga, dan batu bara.
-
+1. **Komoditas Migas**  
+2. **Komoditas Industri Pengolahan**
+3. **Komoditas Pertanian** 
+4. **Komoditas Pertambangan**
+   
 ## Metode Clustering
 Dalam analisis ini, dilakukan clustering untuk mengidentifikasi pola ekspor serupa antar provinsi di Indonesia. Beberapa metode clustering yang digunakan antara lain:  
 - **K-Median**
